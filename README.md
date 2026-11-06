@@ -2,7 +2,7 @@
 
 A LinkedIn-style personal portfolio and profile viewer. It is a single HTML file with no frameworks, no build step and no dependencies, so it opens in any browser and deploys anywhere.
 
-**Live site:** `https://YOUR-USERNAME.github.io/YOUR-REPO/` (replace after you deploy)
+**Live site:** https://talhasaeed18.github.io/Talha-s-Portfolio/
 
 ## About
 
